@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Data Analyst Intern",
+    "organisation": "NCS",
+    "startDate": "March, 2023",
+    "endDate": "June, 2023",
+    "experiences": ["Worked with MOH", "Handled Data using SQL and Informatica"],
+    "imageSrc": "history/ncs_logo.png"
+  },
+  {
+    
+    "organisation": "Cargotec",
+    "role": "Human Resources Specialist",
+    "startDate": "Dec 2020",
+    "endDate": "Apr 2021",
+    "location": "Singapore · On-site",
+    "experiences": [
+      "Assisted in the hiring of over 50 staff",
+      "Assisted in Applicant Evaluation Process"
+    ],
+    "imageSrc": "history/cargotec.png"
+  }
+  
+]

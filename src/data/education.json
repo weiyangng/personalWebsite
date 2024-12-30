@@ -1,0 +1,23 @@
+[
+    {
+      "institution": "National University of Singapore",
+      "program": "Undergraduate, Information Systems",
+      "startDate": "Aug 2023",
+      "endDate": "May 2027",
+      "activities": ["NUS StartIT - Software Engineering Team"],
+      "imageSrc": "education/nus_logo.jpg"
+    },
+    {
+      "institution": "Anglo-Chinese Junior College",
+      "program": "Pre-University",
+      "startDate": "Jan 2019",
+      "endDate": "Dec 2020",
+      "activities": [
+        "ACJC Football Captain 2020",
+        "Honors Roll for 2020 Preliminary Examinations",
+        "Orientation Group Leader 2020"
+      ],
+      "imageSrc": "education/acjc_logo.png"
+    }
+  ]
+  

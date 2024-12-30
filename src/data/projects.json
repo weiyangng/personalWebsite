@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Track, Lift, Connect (TLC)",
+    "imageSrc": "projects/logo.png",
+    "description": "A fitness mobile application that helps to track and manage user workouts through manual and AI workout creation.",
+    "skills": ["React Native", "Expo Go", "SupaBase", "TypeScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/anitamaxwynnns/TLC"
+  },
+  {
+    "title": "Arcade Academy",
+    "imageSrc": "projects/project.png",
+    "description": "Arcade style mini game adventure aimed to help students improve their mathematical ability",
+    "skills": ["Unity", "C++"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/anitamaxwynnns/TLC"
+  }
+]
